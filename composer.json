@@ -1,0 +1,7 @@
+{
+    "name": "adaptcms/plugin-redirection",
+    "description": "301 Redirect plugin for AdaptCMS.",
+    "require": {
+    	"php": ">=5.6.4"
+    }
+}
